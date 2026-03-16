@@ -38,7 +38,7 @@ The project demonstrates full-stack web development by combining a modern fronte
 Clone the repository:
 
 ```bash
-git clone https://github.com/danishskh70/CrickInfo.git
+git clone https://github.com/danishskh70/CrickInfo-Platform.git
 ```
 
 Navigate to the frontend project:
